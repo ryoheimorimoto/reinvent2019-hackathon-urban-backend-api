@@ -1,0 +1,16 @@
+{
+  "name": "backend-api-for-urban",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.581.0",
+    "claudia-api-builder": "^4.1.2",
+    "geojson": "^0.5.0"
+  }
+}
